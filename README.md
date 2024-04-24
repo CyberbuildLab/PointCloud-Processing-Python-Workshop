@@ -19,10 +19,10 @@ This Jupyter Notebook enables you to go through many, often fundamental steps in
 ## Repository Content:
 * The Jupyter Notebook with all the code and explanations for the steps above
 * The Jupyter Notebook for students. This is the same notebook as above, but some lines of code have been removed that the students had to complete themselves
-* The dataset referred to in the notebook to apply the code.
+
+The dataset referred to in the Notebook to apply the code can be found at: [https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing](https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing)
 
 Note: The Notebooks were prepared for use with Google Colab. But, the Jupyter Notebook can also be run using Jupyter Notebook (e.g. through Anaconda), with some adjustments required to the paths to the data files.
 
 ## Acknowledgements:
-This workshop was prepared with support from Bharath Sankaran (https://www.linkedin.com/in/bharathsankaran/), Francois Chataigner (https://www.linkedin.com/in/fran%C3%A7ois-chataigner-12658685/) and the team of researchers under the supervision of Professor Benny Raphael (https://www.linkedin.com/in/benny-raphael-0133711a5/) at IIT Madras.
-Our sincere thanks go to IIT Madras, Civil Engineering Department for organising the acquisition and sharing of this data
+This workshop was prepared with support from [Dr Bharath Sankaran](https://www.linkedin.com/in/bharathsankaran/), [Dr Francois Chataigner](https://www.linkedin.com/in/fran%C3%A7ois-chataigner-12658685/) and the team of researchers under the supervision of [Professor Benny Raphael](https://www.linkedin.com/in/benny-raphael-0133711a5/) in the Civil Engineering Department at IIT Madras. Our sincere thanks go to that team for organising the acquisition and sharing of this data
