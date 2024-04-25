@@ -20,7 +20,7 @@ This Jupyter Notebook enables you to go through many, often fundamental steps in
 * The Jupyter Notebook with all the code and explanations for the steps above
 * The Jupyter Notebook for students. This is the same notebook as above, but some lines of code have been removed that the students had to complete themselves
 
-The dataset referred to in the Notebook to apply the code can be found at: [https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing](https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing)
+The dataset referred to in the Notebook to apply the code can be found at [https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing](https://drive.google.com/file/d/13xz75WIvFY3J7Zh1HLkN0Kg7pyLqJdrS/view?usp=sharing). Please, just download the file and use it locally (or copy it in your Google Drive in order to use with Google Colab).
 
 Note: The Notebook was originally prepared for use with Google Colab. But, it has been reworked so that it can work with either Jupyter Notebook (e.g. through Anaconda) or Google Colab. Section 11, however, only works when using Google Colab.
 
