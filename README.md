@@ -1,4 +1,4 @@
-PointCloud Processing Python Workshop
+# PointCloud Processing Python Workshop
 
 ## Introduction
 This repository simply contains the Jupyter Notebook and data that were used for the "Processing Point Cloud" Workshop delivered at 2023 International Symposium on Automation and Robotics in Construction ([ISARC 2024](https://isarc2023.com/r3/)), the annual conference of the Internationa Association for Automation and Robotics in Construction ([IAARC](https://www.iaarc.org/)).
