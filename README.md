@@ -1,7 +1,7 @@
 # PointCloud Processing ISARC 2023 Python Workshop
 
 ## Introduction
-This repository simply contains the Jupyter Notebook and data that were used for the "Processing Point Cloud" Workshop delivered at 2023 International Symposium on Automation and Robotics in Construction (<a href="https://isarc2023.com/r3/" target="_blank">ISARC 2023</a>), the annual conference of the Internationa Association for Automation and Robotics in Construction (<a href="https://www.iaarc.org/" target="_blank">IAARC</a>).
+This repository simply contains the Jupyter Notebook and data that were used for the "Processing Point Cloud" Workshop delivered at 2023 International Symposium on Automation and Robotics in Construction ([ISARC 2023](https://isarc2023.com/r3/)), the annual conference of the Internationa Association for Automation and Robotics in Construction ([IAARC](https://www.iaarc.org/)).
 
 This Jupyter Notebook introduces you to often fundamental steps in the processing of point clouds, particularly in the context of their use in the Built Environment context, such as Scan-to-BIM and Scan-vs-BIM applications. The Jupyter Notebook is organised in 11 sections:
 1. Environment Setup
@@ -20,7 +20,7 @@ This Jupyter Notebook introduces you to often fundamental steps in the processin
 * The Jupyter Notebook with all the code and explanations for the steps above
 * The Jupyter Notebook for students. This is the same notebook as above, but some lines of code have been removed that the students had to complete themselves
 
-The dataset referred to in the Notebook to apply the code can be found at <a href="https://www.iaarc.org/](https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing](https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing" target="_blank">https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing</a>. Please, just download the file and use it locally (or copy it in your Google Drive in order to use with Google Colab).
+The dataset referred to in the Notebook to apply the code can be found at [https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing](https://drive.google.com/drive/folders/16oii49IkIpwIC0FpzXh5gPS_F3S77NO7?usp=sharing). Please, just download the file and use it locally (or copy it in your Google Drive in order to use with Google Colab).
 
 Note: The Notebook was originally prepared for use with Google Colab. But, it has been reworked so that it can work with either Jupyter Notebook (e.g. through Anaconda) or Google Colab. Section 11, however, only works when using Google Colab.
 
