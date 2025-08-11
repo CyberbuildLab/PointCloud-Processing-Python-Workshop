@@ -1,7 +1,7 @@
 # PointCloud Processing ISARC 2023 Python Workshop
 
 ## Introduction
-This repository simply contains the Jupyter Notebook and data that were used for the "Processing Point Cloud" Workshop delivered at 2023 International Symposium on Automation and Robotics in Construction (<a href="[http://example.co](https://isarc2023.com/r3/)m" target="_blank">ISARC 2023</a>), the annual conference of the Internationa Association for Automation and Robotics in Construction ([IAARC](https://www.iaarc.org/)).
+This repository simply contains the Jupyter Notebook and data that were used for the "Processing Point Cloud" Workshop delivered at 2023 International Symposium on Automation and Robotics in Construction (<a href="https://isarc2023.com/r3/" target="_blank">ISARC 2023</a>), the annual conference of the Internationa Association for Automation and Robotics in Construction (<a href="https://www.iaarc.org/" target="_blank">IAARC</a>).
 
 This Jupyter Notebook introduces you to often fundamental steps in the processing of point clouds, particularly in the context of their use in the Built Environment context, such as Scan-to-BIM and Scan-vs-BIM applications. The Jupyter Notebook is organised in 11 sections:
 1. Environment Setup
